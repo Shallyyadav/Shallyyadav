@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **shallyyadav261@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Shallyyadav/CV](https://github.com/Shallyyadav/CV)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/shally-123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shally-123" height="30" width="40" /></a>
